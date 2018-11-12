@@ -1,0 +1,6 @@
+c:\users\bille\source\repos\TestVariabler\TestVariabler\bin\Debug\TestVariabler.exe.config
+c:\users\bille\source\repos\TestVariabler\TestVariabler\bin\Debug\TestVariabler.exe
+c:\users\bille\source\repos\TestVariabler\TestVariabler\bin\Debug\TestVariabler.pdb
+c:\users\bille\source\repos\TestVariabler\TestVariabler\obj\Debug\TestVariabler.csproj.CoreCompileInputs.cache
+c:\users\bille\source\repos\TestVariabler\TestVariabler\obj\Debug\TestVariabler.exe
+c:\users\bille\source\repos\TestVariabler\TestVariabler\obj\Debug\TestVariabler.pdb

@@ -1,0 +1,6 @@
+c:\users\bille\source\repos\ÖvaLiteDÅ\ÖvaLiteDÅ\bin\Debug\ÖvaLiteDÅ.exe.config
+c:\users\bille\source\repos\ÖvaLiteDÅ\ÖvaLiteDÅ\bin\Debug\ÖvaLiteDÅ.exe
+c:\users\bille\source\repos\ÖvaLiteDÅ\ÖvaLiteDÅ\bin\Debug\ÖvaLiteDÅ.pdb
+c:\users\bille\source\repos\ÖvaLiteDÅ\ÖvaLiteDÅ\obj\Debug\ÖvaLiteDÅ.csproj.CoreCompileInputs.cache
+c:\users\bille\source\repos\ÖvaLiteDÅ\ÖvaLiteDÅ\obj\Debug\ÖvaLiteDÅ.exe
+c:\users\bille\source\repos\ÖvaLiteDÅ\ÖvaLiteDÅ\obj\Debug\ÖvaLiteDÅ.pdb

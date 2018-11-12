@@ -1,0 +1,14 @@
+c:\users\bille\source\repos\Övning2\Övning2\bin\Debug\Övning2.exe.config
+c:\users\bille\source\repos\Övning2\Övning2\bin\Debug\Övning2.exe
+c:\users\bille\source\repos\Övning2\Övning2\bin\Debug\Övning2.pdb
+c:\users\bille\source\repos\Övning2\Övning2\obj\Debug\Övning2.csproj.CoreCompileInputs.cache
+c:\users\bille\source\repos\Övning2\Övning2\obj\Debug\Övning2.exe
+c:\users\bille\source\repos\Övning2\Övning2\obj\Debug\Övning2.pdb
+c:\users\bille\source\repos\Övning2\Övning2\obj\Debug\Övning2.csprojAssemblyReference.cache
+C:\Users\Spexan\source\repos\Övning2\Övning2\obj\Debug\Övning2.csprojResolveAssemblyReference.cache
+C:\Users\Spexan\source\repos\Övning2\Övning2\obj\Debug\Övning2.csproj.CoreCompileInputs.cache
+C:\Users\Spexan\source\repos\Övning2\Övning2\obj\Debug\Övning2.exe
+C:\Users\Spexan\source\repos\Övning2\Övning2\obj\Debug\Övning2.pdb
+C:\Users\Spexan\source\repos\Övning2\Övning2\bin\Debug\Övning2.exe.config
+C:\Users\Spexan\source\repos\Övning2\Övning2\bin\Debug\Övning2.exe
+C:\Users\Spexan\source\repos\Övning2\Övning2\bin\Debug\Övning2.pdb
